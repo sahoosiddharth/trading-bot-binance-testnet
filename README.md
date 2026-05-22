@@ -2,8 +2,7 @@
 
 A clean, well-structured Python CLI application that places orders on the **Binance USDT-M Futures Testnet**.
 
-> **GitHub repo:** https://github.com/sahoosiddharth/trading-bot  
-
+> **GitHub repo:** https://github.com/sahoosiddharth/trading-bot-binance-testnet
 ---
 
 ## Project Structure
